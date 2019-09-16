@@ -6,7 +6,8 @@ var app=express();
 app.set('port',process.env.PORT||3000);
 
 http.createServer(app).listen(app.get('port'),function(){
-    console.log('se');
+    console.log('se'); 
+    
 });
 
 app.use(function(req,res,next){
