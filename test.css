@@ -1,0 +1,16 @@
+
+
+
+warp>div{
+    width:150px;
+    height: 150px;
+    border: 1px solid gray;
+    font-size:1em;
+    text-align: center;
+    line-height: 100px;
+    margin:10px;
+}
+relative{
+    position: relative;
+    left:10px;
+}
