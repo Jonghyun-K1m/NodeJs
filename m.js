@@ -3,6 +3,7 @@ var fs = require('fs');
 var url = require('url');
 var qs = require('querystring');
 var port=3000;
+/*post형식데이터 응답 */
 var server=http.createServer(function(req,res){
 
     var postdata='';
