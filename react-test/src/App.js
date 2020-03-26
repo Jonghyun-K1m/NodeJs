@@ -13,7 +13,7 @@ const customers = [{
         'id':2,
         'image': 'https://placeimg.com/64/64/any',
         'name': '심청이',
-        'birthday': '961222',
+        'birthday': '961223',
         'gender': '여자',
         'job': '대학생'
        }
